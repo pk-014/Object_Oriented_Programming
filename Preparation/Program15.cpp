@@ -12,7 +12,7 @@ class Animal{
 class Dog: public Animal{
 	public:
 		void makesound(){
-			cout<<"\nDog is makinig sound";
+			cout<<"\nDog is making sound";
 		}
 };
 class Cat: public Animal{
